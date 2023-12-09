@@ -25,7 +25,7 @@
 
 *Scoreboard*
 
-15.	
+15.	add one point to the score when the turtle reaches the top.
 
 *Rules and scoring*
 
