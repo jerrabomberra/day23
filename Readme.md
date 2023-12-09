@@ -3,10 +3,10 @@
 *Screen*
 1.	Screen size (600, 600)
 2.	Exit on click
-3.	Background white.
+3.	Background white
 
 *Turtle*
-4.	Create a turtle player that starts at the bottom of the screen and listen for the "Up" keypress to move the turtle north.
+4.	Create a turtle player that starts at the bottom of the screen and listen for the "Up" keypress to move the turtle north
 5.	Turtle shape
 6.	Turtle size
 7.	Starting position of turtle
